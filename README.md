@@ -35,7 +35,7 @@ https://gbcdn.mrgcdn.ru/uploads/record/145259/attachment/fd3b92fbbc1d392566d4985
 Урок 10. Start up
 https://gbcdn.mrgcdn.ru/uploads/record/145260/attachment/4db775b9fc72f5b21241167b8a72b5eb.mp4
 
-
+__________________________________________________________________
 JAVA 
 
 
@@ -109,3 +109,10 @@ https://gbcdn.mrgcdn.ru/uploads/record/226842/attachment/92d62e1f4215021ba66357c
 Урок 5 https://gbcdn.mrgcdn.ru/uploads/record/235798/attachment/03d5e14b8efc84d12af3754d5844877b.mp4
 Урок 6 https://gbcdn.mrgcdn.ru/uploads/record/236734/attachment/224236f9407d5c8ddd08cd99e9308d17.mp4
 Урок 7 https://gbcdn.mrgcdn.ru/uploads/record/237295/attachment/190fa2f3b75bf5d8be45902f5dfdbc24.mp4
+
+
+____________________________________
+PYTHON
+как установить Pycharm
+
+https://drive.google.com/file/d/1xESMgSsSq41Y1F4uDQASEEzY2MwMZ-wX/view?usp=sharing
