@@ -116,3 +116,21 @@ PYTHON
 как установить Pycharm
 
 https://drive.google.com/file/d/1xESMgSsSq41Y1F4uDQASEEzY2MwMZ-wX/view?usp=sharing
+
+семинары с ООП
+1: https://gbcdn.mrgcdn.ru/uploads/record/266121/attachment/f1ad46bd6f709fd7e7cc95951d2a7720.mp4
+2: https://gbcdn.mrgcdn.ru/uploads/record/266677/attachment/a93e02df7c04f8ed469423467ada9cb9.mp4
+3: https://gbcdn.mrgcdn.ru/uploads/record/267530/attachment/d5bd888dd4fc99797d8fe4804d0ebafc.mp4
+4: https://gbcdn.mrgcdn.ru/uploads/record/268119/attachment/d578acd942f009018bad070b6739446b.mp4
+5: https://gbcdn.mrgcdn.ru/uploads/record/269042/attachment/df6cbfeebb5e33a68fe5d05675d9288b.mp4
+6: https://gbcdn.mrgcdn.ru/uploads/record/269764/attachment/9ce78d7f3d73264bab7c1362708d435d.mp4
+7: https://gbcdn.mrgcdn.ru/uploads/record/270435/attachment/33b2951d701c59c574c6f89b4e66ab00.mp4
+8: https://gbcdn.mrgcdn.ru/uploads/record/271066/attachment/88ebde10ef97132a63a272d79687047a.mp4
+8 - https://gbcdn.mrgcdn.ru/uploads/record/271066/attachment/88ebde10ef97132a63a272d79687047a.mp4
+9 - https://gbcdn.mrgcdn.ru/uploads/record/271791/attachment/343aa918280c06ce1460723b6f30b73d.mp4
+10 - https://gbcdn.mrgcdn.ru/uploads/record/272330/attachment/726ea10b727a1df88929180583547e40.mp4
+11 - https://gbcdn.mrgcdn.ru/uploads/record/272733/attachment/db3888a219633103d4937b0e28ce4f47.mp4
+12 - https://gbcdn.mrgcdn.ru/uploads/record/272931/attachment/c02aed9657707edee231d421bc96f4ae.mp4
+13 - https://gbcdn.mrgcdn.ru/uploads/record/273203/attachment/7b273ab47b19848708f131d46544099e.mp4
+14 - https://gbcdn.mrgcdn.ru/uploads/record/273488/attachment/b52d038e8ab07d571e485cc404b66b53.mp4
+15 - https://gbcdn.mrgcdn.ru/uploads/record/274205/attachment/34e8f007f155685f7c005cf326083672.mp4
